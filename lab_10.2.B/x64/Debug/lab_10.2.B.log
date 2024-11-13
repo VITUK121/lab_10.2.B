@@ -1,0 +1,5 @@
+﻿  lab_10.2.B.cpp
+C:\Users\VITUK\source\repos\lab_10.2.B\lab_10.2.B\lab_10.2.B.cpp(82,7): warning C4101: 'temp': unreferenced local variable
+C:\Users\VITUK\source\repos\lab_10.2.B\lab_10.2.B\lab_10.2.B.cpp(242,6): warning C4101: 'i': unreferenced local variable
+C:\Users\VITUK\source\repos\lab_10.2.B\lab_10.2.B\lab_10.2.B.cpp(52,1): warning C4715: 'Student::return_major_name': not all control paths return a value
+  lab_10.2.B.vcxproj -> C:\Users\VITUK\source\repos\lab_10.2.B\x64\Debug\lab_10.2.B.exe
